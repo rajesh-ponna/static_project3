@@ -1,0 +1,1 @@
+console.log("1st time added for js")
